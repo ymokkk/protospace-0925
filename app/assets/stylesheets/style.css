@@ -38,7 +38,7 @@ a {
 /* ヘッダー */
 
 .header {
-  background-image: url(whiteimage.jpg);
+  background-image: url(white_image.jpg);
   background-size: cover;
   background-color: #f2f2f2;
   margin-bottom: 48px;
@@ -224,7 +224,7 @@ a {
 }
 
 .prototype__comments{
-  background-color: #f6f6f6;
+  background-color: #fff;
   padding: 20px;
   margin: 28px 0 40px 0;
 }
@@ -239,9 +239,9 @@ a {
 }
 
 .comment_user{
-  font-size: 16px;
+  font-size: 15px;
   color: #999;
-  text-decoration: underline;
+  text-decoration: underline dotted;
 }
 
 .fa-heart{
