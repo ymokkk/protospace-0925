@@ -42,6 +42,11 @@ class PrototypesController < ApplicationController
     redirect_to root_path
   end
 
+  def search
+    @q = Prototype.ransack(params[:q])
+    @prototypes = @q.result
+  end
+
   private
 
   def prototype_params
