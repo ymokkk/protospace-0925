@@ -28,6 +28,7 @@
           </p>
         </div>
       </div>
+      <div style="text-align:center">
       <div class="prototype__comments">
         <% if user_signed_in? %>
           <%= form_with model: [@prototype, @comment],local: true do |f|%>
@@ -48,6 +49,7 @@
             </div>
           <% end %>
         </ul>
+      </div>
       </div>
     </div>
   </div>
