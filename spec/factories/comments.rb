@@ -1,6 +1,6 @@
 FactoryBot.define do
   factory :comment do
-    content {'良いですね'}
+    content { '良いですね' }
     association :user
     association :prototype
   end
