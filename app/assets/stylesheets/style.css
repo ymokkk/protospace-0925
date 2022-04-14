@@ -165,7 +165,7 @@ a {
 .card__user {
   display: block;
   font-size: 12px;
-  color: #999;
+  color: #111;
   text-align: right;
   text-decoration: underline;
 }
@@ -176,13 +176,30 @@ a {
 }
 .prototype__hedding{
   font-size: 24px;
-  font-weight: bold;
   text-align: center;
+  position: relative;
+
+  padding: 0 55px;
+}
+.prototype__hedding:before, .prototype__hedding:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+
+  width: 400px;
+  height: 1px;
+  background-color: black;
+}
+.prototype__hedding:before {
+  left:0;
+}
+.prototype__hedding:after {
+  right: 0;
 }
 .prototype__user{
   display: block;
   font-size: 16px;
-  color: #999;
+  color: #111;
   text-align: center;
   text-decoration: underline;
 }
@@ -240,7 +257,7 @@ a {
 
 .comment_user{
   font-size: 15px;
-  color: #999;
+  color: #444444;
   text-decoration: underline dotted;
 }
 
@@ -259,9 +276,9 @@ a {
   width: 50%;
 }
 .table__col1{
-  text-align: left;
+  text-align: center;
   font-weight: bold;
-  background: #fafafa;
+  background: #BBBBBB;
   border-collapse: collapse;
   border: 1px solid #f5f5f5;
   width: 30%;
