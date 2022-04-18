@@ -64,7 +64,7 @@ https://protospace-0925.herokuapp.com/
   [![Image from Gyazo](https://i.gyazo.com/808799ae7b08b089287ecc5adcea71c5.png)](https://gyazo.com/808799ae7b08b089287ecc5adcea71c5) 
   
   # 開発環境
-  - Ruby/Ruby on rails/javascript/MySQL/Github/AWS/Visual Studio Code/jQuery<br>
+  - HTML/CSS/Ruby/Ruby on rails/javascript/MySQL/Github/AWS/Visual Studio Code/jQuery<br>
   - フロントエンド<br>
   - バックエンド<br>
   - インフラ <br>
