@@ -13,7 +13,7 @@ https://protospace-0925.herokuapp.com/
  パスワード：　t6t6t6<br>
  
 - ユーザー2<br>　
-  メールアドレス: r@com<br>
+メールアドレス: r@com<br>
    パスワード: r6r6r6<br>
   
  # 利用方法
