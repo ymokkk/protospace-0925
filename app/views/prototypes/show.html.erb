@@ -15,6 +15,11 @@
         <%= image_tag @prototype.image %>
       </div>
       <div style="text-align:center">
+      <% if current_user.liked_by?(@prototype.id) %>
+        <td><%= link_to 'いいねを外す', destroy_like_path(@prototype), method: :DELETE %></td>
+      <% else %>
+        <td><%= link_to 'いいね', create_like_path(@prototype), method: :POST %></td>
+      <% end %>
       <i class="far fa-heart"></i>
       </div>
       <br>
