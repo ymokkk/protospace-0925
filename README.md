@@ -58,7 +58,7 @@ https://protospace-0925.herokuapp.com/
   現在「いいね」のハート部分しかないので、今後はクリックするとハートの色が変わり、いいねされた数がカウントされる機能をつけたいと思っています。  
   
   # データベース設計
-  [![Image from Gyazo](https://i.gyazo.com/6991cfdc63ac87a33bae618d3a694480.png)](https://gyazo.com/6991cfdc63ac87a33bae618d3a694480)
+  [![Image from Gyazo](https://i.gyazo.com/9a3f46f694f90a3bd092026487c02007.png)](https://gyazo.com/9a3f46f694f90a3bd092026487c02007)
   
   # 画面遷移図
   [![Image from Gyazo](https://i.gyazo.com/808799ae7b08b089287ecc5adcea71c5.png)](https://gyazo.com/808799ae7b08b089287ecc5adcea71c5) 
