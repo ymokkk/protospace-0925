@@ -30,7 +30,7 @@ https://protospace-0925.herokuapp.com/
  
  # 実装した機能についての画像やGIFおよびその説明 
   1.ログイン機能
-  [![Image from Gyazo](https://i.gyazo.com/37342fd4f2252db5c0c5f695f7cb88fc.gif)](https://gyazo.com/37342fd4f2252db5c0c5f695f7cb88fc)
+  [![Image from Gyazo](https://i.gyazo.com/248a7356b6e13b5daad949b17f013f20.gif)](https://gyazo.com/248a7356b6e13b5daad949b17f013f20)
   
   2.商品投稿機能
   [![Image from Gyazo](https://i.gyazo.com/ad210df2cbd95176bca586fe23472d41.gif)](https://gyazo.com/ad210df2cbd95176bca586fe23472d41)
