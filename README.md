@@ -33,25 +33,28 @@ https://protospace-0925.herokuapp.com/
   [![Image from Gyazo](https://i.gyazo.com/248a7356b6e13b5daad949b17f013f20.gif)](https://gyazo.com/248a7356b6e13b5daad949b17f013f20)
   
   2.商品投稿機能
-  [![Image from Gyazo](https://i.gyazo.com/ad210df2cbd95176bca586fe23472d41.gif)](https://gyazo.com/ad210df2cbd95176bca586fe23472d41)
+  [![Image from Gyazo](https://i.gyazo.com/3ab10a01f228acc31d30643048fbcffd.gif)](https://gyazo.com/3ab10a01f228acc31d30643048fbcffd)
   
   3.商品詳細機能
-  [![Image from Gyazo](https://i.gyazo.com/c72360d2b6c2c09705dafc02e1b881fd.gif)](https://gyazo.com/c72360d2b6c2c09705dafc02e1b881fd)
+  [![Image from Gyazo](https://i.gyazo.com/3d4375e1c697a5c3f5084a6fb7293ea0.gif)](https://gyazo.com/3d4375e1c697a5c3f5084a6fb7293ea0)
   
   4.商品編集機能
-  [![Image from Gyazo](https://i.gyazo.com/db61bdcaf7baba5c3905966e45df69b3.gif)](https://gyazo.com/db61bdcaf7baba5c3905966e45df69b3)
+  [![Image from Gyazo](https://i.gyazo.com/2385b1d46b13bc846a55de9d7df54d77.gif)](https://gyazo.com/2385b1d46b13bc846a55de9d7df54d77)
   
   5.商品削除機能
-  [![Image from Gyazo](https://i.gyazo.com/cbfb946acf3480af611f6f8070a1a220.gif)](https://gyazo.com/cbfb946acf3480af611f6f8070a1a220)
+  [![Image from Gyazo](https://i.gyazo.com/7654749a5ff56eb7f85b93f011d8397f.gif)](https://gyazo.com/7654749a5ff56eb7f85b93f011d8397f)
   
   6.ユーザー詳細機能
-  [![Image from Gyazo](https://i.gyazo.com/ddf6ec376a2787216d911a4d3144eb3b.gif)](https://gyazo.com/ddf6ec376a2787216d911a4d3144eb3b) 
+  [![Image from Gyazo](https://i.gyazo.com/ade9feeb3bde0aad5563a72b9a23ff64.gif)](https://gyazo.com/ade9feeb3bde0aad5563a72b9a23ff64)
   
   7.商品検索機能
-  [![Image from Gyazo](https://i.gyazo.com/e6b7221c690973726a81d05264748d2f.gif)](https://gyazo.com/e6b7221c690973726a81d05264748d2f)
+  [![Image from Gyazo](https://i.gyazo.com/43cfd5787eb7940720cda51c572b2deb.gif)](https://gyazo.com/43cfd5787eb7940720cda51c572b2deb)
   
   8.コメント機能
-  [![Image from Gyazo](https://i.gyazo.com/368358589db1d664fd7b3d89d902157b.gif)](https://gyazo.com/368358589db1d664fd7b3d89d902157b)
+  [![Image from Gyazo](https://i.gyazo.com/af5ff9248e5b067626a7b780c31d2b6c.gif)](https://gyazo.com/af5ff9248e5b067626a7b780c31d2b6c)
+  
+  9.いいね機能
+  [![Image from Gyazo](https://i.gyazo.com/996401b6a765a9aefbe477ac3dfa1495.gif)](https://gyazo.com/996401b6a765a9aefbe477ac3dfa1495)
   
   # 実装予定の機能
  ### 非同期でのいいね機能<br>
